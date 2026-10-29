@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elections.iradgov.org/sitemap.xml

@@ -1,0 +1,55 @@
+{
+  "notices": [
+    {
+      "date": "2026-09-30",
+      "number": {
+        "en": "Decision 2026/4",
+        "ir": "2026/4 chechim",
+        "ru": "Решение 2026/4"
+      },
+      "title": {
+        "en": "Preliminary calendar of the general election of 2 November 2027",
+        "ir": "2027-jıldın 2-noyabrındagı jalpı shayloonun aldın ala kalendarı",
+        "ru": "Предварительный календарь всеобщих выборов 2 ноября 2027 года"
+      },
+      "text": {
+        "en": "The Commission has adopted the preliminary calendar of the general election. See the <a href=\"/calendar.html\">calendar</a>.",
+        "ir": "Komissiya jalpı shayloonun aldın ala kalendarın kabıl aldı. <a href=\"/calendar.html\">Kalendardı</a> karañız.",
+        "ru": "Комиссия утвердила предварительный календарь всеобщих выборов. См. <a href=\"/calendar.html\">календарь</a>."
+      },
+      "signed": {
+        "en": "D. Borubaev, Chairman",
+        "ir": "D. Borubaev, Töraga",
+        "ru": "Д. Борубаев, председатель"
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "number": null,
+      "title": {
+        "en": "Observers at the 2027 election",
+        "ir": "2027-jılkı shayloodogu baykoochular",
+        "ru": "Наблюдатели на выборах 2027 года"
+      },
+      "text": {
+        "en": "The Commission notes the Government's statement that international observers will be invited as in previous elections. Accreditation opens on 1 June 2027.",
+        "ir": "Komissiya el aralık baykoochular murdagı shayloolordogudoy ele chakırıla turgandıgı tuuraluu Ökmöttün bildirüüsün eske alat. Akkreditatsiya 2027-jıldın 1-iyununda achılat.",
+        "ru": "Комиссия принимает к сведению заявление Правительства о том, что международные наблюдатели будут приглашены, как и на предыдущих выборах. Аккредитация начинается 1 июня 2027 года."
+      }
+    },
+    {
+      "date": "2024-03-15",
+      "number": null,
+      "title": {
+        "en": "Certified Results of General Elections, 2011–2023",
+        "ir": "2011–2023-jıldardagı jalpı shayloolordun tastıktalgan jıyıntıktarı",
+        "ru": "Удостоверенные итоги всеобщих выборов 2011–2023 годов"
+      },
+      "text": {
+        "en": "The consolidated certified results are published. See <a href=\"/results.html\">results</a>.",
+        "ir": "Birikken tastıktalgan jıyıntıktar jarıyalandı. <a href=\"/results.html\">Jıyıntıktardı</a> karañız.",
+        "ru": "Опубликованы сводные удостоверенные итоги. См. <a href=\"/results.html\">итоги</a>."
+      }
+    }
+  ]
+}
